@@ -1,0 +1,16 @@
+[package]
+name = "term-dash"
+version = "0.1.0"
+edition = "2021"
+description = "A modern, lightweight system monitoring dashboard for the terminal."
+authors = ["Lux <lux@example.com>"]
+license = "MIT"
+repository = "https://github.com/lux/term-dash"
+keywords = ["tui", "system-monitor", "dashboard", "ratatui", "cli"]
+categories = ["command-line-utilities", "visualization"]
+
+[dependencies]
+ratatui = "0.29.0"
+crossterm = "0.28.1"
+sysinfo = "0.30.13"
+anyhow = "1.0.95"
