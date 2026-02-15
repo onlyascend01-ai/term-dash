@@ -1,4 +1,4 @@
-# Term-Dash ⚡
+# Term-Dash 
 
 A modern, lightweight system monitoring dashboard for your terminal, built with Rust and Ratatui.
 
@@ -7,11 +7,11 @@ A modern, lightweight system monitoring dashboard for your terminal, built with 
 
 ## Features
 
-- 🖥️ **Real-time CPU & Memory Usage** with historical sparklines.
-- 💾 **Disk Usage** with color-coded alerts (Green/Yellow/Red).
-- 🌐 **Network I/O** monitoring (active interfaces only).
-- ⏱️ **Uptime & System Info** at a glance.
-- 🚀 **Blazing Fast** & Resource Efficient (written in Rust).
+-  **Real-time CPU & Memory Usage** with historical sparklines.
+-  **Disk Usage** with color-coded alerts (Green/Yellow/Red).
+-  **Network I/O** monitoring (active interfaces only).
+-  **Uptime & System Info** at a glance.
+-  **Blazing Fast** & Resource Efficient (written in Rust).
 
 ## Installation
 
